@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3413333e-2dec-48ab-aeea-4830362fa85b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="3413333e-2dec-48ab-aeea-4830362fa85b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -19,8 +17,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="227" column="28" lean-forward="false" selection-start-line="227" selection-start-column="28" selection-end-line="227" selection-end-column="28" />
+            <state relative-caret-position="740">
+              <caret line="228" column="0" lean-forward="false" selection-start-line="228" selection-start-column="0" selection-end-line="228" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -77,18 +75,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="srizon-Drifolio-Bootstrap-f5a5f58" type="b2602c69:ProjectViewProjectNode" />
-              <item name="srizon-Drifolio-Bootstrap-f5a5f58" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="srizon-Drifolio-Bootstrap-f5a5f58" type="b2602c69:ProjectViewProjectNode" />
-              <item name="srizon-Drifolio-Bootstrap-f5a5f58" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="srizon-Drifolio-Bootstrap-f5a5f58" type="b2602c69:ProjectViewProjectNode" />
-              <item name="srizon-Drifolio-Bootstrap-f5a5f58" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="Milocs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Milocs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -131,12 +119,12 @@
       <workItem from="1513257778944" duration="2228000" />
       <workItem from="1513325646967" duration="54000" />
       <workItem from="1513342675312" duration="1504000" />
-      <workItem from="1513347852015" duration="1375000" />
+      <workItem from="1513347852015" duration="1592000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5161000" />
+    <option name="totallyTimeSpent" value="5378000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="41" width="1922" height="1040" extended-state="6" />
@@ -209,8 +197,8 @@
     <entry file="file://$PROJECT_DIR$/css/style.css" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="227" column="28" lean-forward="false" selection-start-line="227" selection-start-column="28" selection-end-line="227" selection-end-column="28" />
+        <state relative-caret-position="740">
+          <caret line="228" column="0" lean-forward="false" selection-start-line="228" selection-start-column="0" selection-end-line="228" selection-end-column="0" />
           <folding />
         </state>
       </provider>
